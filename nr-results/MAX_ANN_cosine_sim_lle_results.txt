@@ -1,0 +1,121 @@
+
+---------------------------------------------
+------------------- Fold 1 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.962962962962963
+AUPR: 0.970959595959596
+---------------------------------------------
+------------------- Fold 2 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.9444444444444444
+AUPR: 0.9722222222222223
+---------------------------------------------
+------------------- Fold 3 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.9629629629629629
+AUPR: 0.960273368606702
+---------------------------------------------
+------------------- Fold 4 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 1.0
+AUPR: 1.0
+---------------------------------------------
+------------------- Fold 5 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.9320987654320988
+AUPR: 0.9611111111111112
+---------------------------------------------
+------------------- Fold 6 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.9753086419753086
+AUPR: 0.978787878787879
+---------------------------------------------
+------------------- Fold 7 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 1.0
+AUPR: 1.0
+---------------------------------------------
+------------------- Fold 8 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.8888888888888888
+AUPR: 0.9444444444444444
+---------------------------------------------
+------------------- Fold 9 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.9506172839506173
+AUPR: 0.9507896424563091
+---------------------------------------------
+------------------- Fold 10 ------------------
+Confusion Matrix for this fold
+[[0 9]
+ [0 9]]
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.6666666666666666
+Area ROC: 0.8641975308641975
+AUPR: 0.9197530864197532
+-------------- Evaluation Metrics for All Folds -----------------
+Accuracy score: 0.5
+Precision score: 0.5
+Recall score: 1.0
+F1 score: 0.667
+Roc_auc: 0.948
+AUPR: 0.966
+Confusion matrix for all folds:
+[[ 0. 90.]
+ [ 0. 90.]]
